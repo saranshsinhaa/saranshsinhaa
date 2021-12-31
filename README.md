@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WraitH17
-- 👀 I’m interested in Web Dev and Cyber Sec.
-- 🌱 I’m currently learning ... anything useful for Web Dev
-- 💞️ I’m looking to collaborate on ...well, anything
+- 👀 I’m interested in Software Development, Web Development, Cyber Security
+- 🌱 I’m currently learning ... anything useful for the above
+- 💞️ I’m looking to collaborate on ...Anything
 - 📫 How to reach me ... https://www.instagram.com/wraithtoo/
 
 <!---
