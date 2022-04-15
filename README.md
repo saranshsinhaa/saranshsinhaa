@@ -16,7 +16,7 @@
 <a href="https://twitter.com/sssinhaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sssinhaaa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saransh-sinha17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saransh-sinha17" height="30" width="40" /></a>
 <a href="https://instagram.com/wraithtoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wraithtoo" height="30" width="40" /></a>
-<a href="mailto:saranshsinha084@gmail.com?'Reching out to you'='Hi, I want to enquire about...'" rel="noopener" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/732/732200.png" alt="Gmail" height="40" width="40" /></a>
+<a href="mailto:saranshsinha084@gmail.com?'Reching out to you'='Hi, I want to enquire about...'" rel="noopener" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail" height="40" width="40" /></a>
 </p>
 
 
