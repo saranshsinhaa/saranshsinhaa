@@ -2,9 +2,8 @@
 
 <h1 align="center">Hello There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F523&duration=4000&center=true&width=500&lines=Welcome+to+WraitH's+GitHub+Profile)
-
+<p align="center">
+<a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F73F&center=true&width=435&lines=Welcome+to+WraitH's+GitHub+Profile" alt="Typing SVG" /></a></p>
 
 <p align="center">
 <img src="https://tenor.com/view/code-coding-programming-computer-science-programming-language-gif-16596559.gif">
@@ -39,7 +38,19 @@
 <p align="center">
   <img height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wraith17&layout=compact&langs_count=10&theme=highcontrast"/>
 </a>
-</p>
+
+</p> 
+
+<br>
 <hr>
+
+<p align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31hgqev7fv5jryvucgq6gufpyhy4&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31hgqev7fv5jryvucgq6gufpyhy4&redirect=true)
+
+</p>
+
+<hr>
+
 
 
