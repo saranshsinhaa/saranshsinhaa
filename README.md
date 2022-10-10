@@ -51,7 +51,17 @@
 
 <p align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31hgqev7fv5jryvucgq6gufpyhy4&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31hgqev7fv5jryvucgq6gufpyhy4&redirect=true)
+
+
+
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31hgqev7fv5jryvucgq6gufpyhy4&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31hgqev7fv5jryvucgq6gufpyhy4&redirect=true)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hgqev7fv5jryvucgq6gufpyhy4)
+
+<hr>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/699653917646258247)](https://discord.com/users/699653917646258247)
+
+
 
 </p>
 
