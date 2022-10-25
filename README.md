@@ -36,7 +36,7 @@
 
 <p align="center">
 <a href="https://github.com/wraith17">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=WraitH17&count_private=true&hide=issues&show_icons=true&theme=chartreuse-dark"><br>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=WraitH17&count_private=true&show_icons=true&theme=chartreuse-dark"><br>
 </a>
 <br>
 </p>
