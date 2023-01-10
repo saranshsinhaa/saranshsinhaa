@@ -35,13 +35,13 @@
 <br>
 
 <p align="center">
-<a href="https://github.com/wraith17">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=WraitH17&count_private=true&show_icons=true&theme=chartreuse-dark"><br>
+<a href="https://github.com/saranshsinhaa">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=saranshsinhaa&count_private=true&show_icons=true&theme=chartreuse-dark"><br>
 </a>
 <br>
 </p>
 <p align="center">
-  <img height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wraith17&layout=compact&langs_count=10&theme=chartreuse-dark"/>
+  <img height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saranshsinhaa&layout=compact&langs_count=10&theme=chartreuse-dark"/>
 </a>
 
 </p> 
