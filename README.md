@@ -12,10 +12,10 @@
 
 <h2 align="center">Connect with Me</h2>
 <p align="center">
-<a href="https://twitter.com/sssinhaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sssinhaaa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saransh-sinha17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saransh-sinha17" height="30" width="40" /></a>
-<a href="https://instagram.com/wraithtoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wraithtoo" height="30" width="40" /></a>
-<a href="mailto:saranshsinha084@gmail.com?'Reching out to you'='Hi, I want to enquire about...'" rel="noopener" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail" height="40" width="40" /></a>
+<a href="https://x.com/saranshsinhaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saranshsinhaa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saranshsinhaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saranshsinhaa" height="30" width="40" /></a>
+<a href="https://instagram.com/saranshsinhaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saranshsinhaa" height="30" width="40" /></a>
+<a href="mailto:contact@saranshsinha.me?'Reching out to you'='Hi, I want to enquire about...'" rel="noopener" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail" height="40" width="40" /></a>
 </p>
 
 
@@ -55,7 +55,7 @@
 
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31hgqev7fv5jryvucgq6gufpyhy4&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31hgqev7fv5jryvucgq6gufpyhy4&redirect=true)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hgqev7fv5jryvucgq6gufpyhy4)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hgqev7fv5jryvucgq6gufpyhy4)
 
 <hr>
 
