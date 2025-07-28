@@ -25,15 +25,19 @@
 <br>
 
 <p align="center">
-<a href="https://github.com/saranshsinhaa">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=saranshsinhaa&show_icons=true&theme=chartreuse-dark&rank_icon=github&include_all_commits=true"><br>
-</a>
-<br>
+  <a href="https://github.com/saranshsinhaa">
+    <img loading="eager" src="https://github-readme-stats.vercel.app/api?username=saranshsinhaa&show_icons=true&theme=chartreuse-dark&rank_icon=github&include_all_commits=true">
+  </a>
 </p>
+
+
+---
+
 <p align="center">
-<a href="https://github.com/saranshsinhaa">
-<img src="https://streak-stats.demolab.com?user=saranshsinhaa&theme=chartreuse-dark" alt="GitHub Streak" />
-</a>
+  <a href="https://github.com/saranshsinhaa">
+    <img src="https://streak-stats.demolab.com?user=saranshsinhaa&theme=chartreuse-dark" alt="GitHub Streak" />
+  </a>
+</p>
 
 <br>
 
